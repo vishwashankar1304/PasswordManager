@@ -21,7 +21,7 @@ Built with a focus on **data security, usability, and lightweight performance**.
 - **Programming Language:** Python (or Java if your version was in Java)  
 - **Libraries Used:**  
   - `cryptography` (for AES encryption)  
-  - `sqlite3` (for local database storage)  
+  - `MongoDB` (for database storage)  
   - `tkinter` (for GUI, if applicable)  
 
 ---
