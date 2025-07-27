@@ -30,5 +30,5 @@ Built with a focus on **data security, usability, and lightweight performance**.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Password-Manager.git
-cd Password-Manager
+https://github.com/vishwashankar1304/PasswordManager.git
+cd PasswordManager
